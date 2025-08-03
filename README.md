@@ -17,8 +17,12 @@ Key SQL Queries and Insights:
 - Top 5 companies by layoffs per year: Ranked companies by total layoffs on a yearly basis.
 - Top 3 industries by layoffs per year: Ranked industries by total layoffs annually.
 
+Visualization:
+-  Built an interactive Power BI dashboard showcasing layoffs by sector, geography, and time period, enabling stakeholders to track macroeconomic workforce patterns.
+
 Tools Used:
 - SQL (MySQL/PostgreSQL syntax)
+- Power BI
 - Git for version control
 - GitHub for hosting and documentation
 
